@@ -1,20 +1,37 @@
 # "Express JS Tutorial - Routers"
+# MongoDB Async CRUD - Express API
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button-v2.svg)](https://glitch.com/edit/#!/import/github/Doublefffccccfff/mongoDb_async_Crud-)
 
+🚀 **One-click deploy to Glitch!**
 
-**Deploy by clicking the button above 
+---
 
-**Description:**
+## 📋 Description
 
-This repository shares the code applied during the Youtube tutorial. The tutorial is part of a [Node.js & Express for Beginners Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw) on my channel.  
+This repository contains an Express.js application with MongoDB integration, featuring:
+- User authentication with JWT
+- Employee CRUD operations
+- Protected API routes
+- Refresh token flow
 
+Part of a Node.js & Express tutorial series.
 
-[YouTube Tutorial](https://youtu.be/Zh7psmf1KAA) for this repository.
+## ✨ Features
 
-I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
+- ✅ User Registration & Login
+- ✅ JWT Authentication (Access & Refresh Tokens)
+- ✅ Employee Management System
+- ✅ MongoDB Database Integration
+- ✅ Protected Routes with Role-Based Access
+- ✅ Password Hashing with bcrypt
 
-### Academic Honesty
+## 🛠️ Tech Stack
 
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
-# mongoDb_async_Crud-
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Authentication:** JWT, bcrypt
+- **Dev Tools:** Nodemon, dotenv
+
+## 📦 Installation
+```bash
